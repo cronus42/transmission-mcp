@@ -31,7 +31,7 @@ The server also provides these resources for browsing:
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/transmission-mcp.git
+git clone https://github.com/cronus42/transmission-mcp.git
 cd transmission-mcp
 ```
 
