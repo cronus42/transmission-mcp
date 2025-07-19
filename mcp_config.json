@@ -1,0 +1,9 @@
+{
+  "mcpServers": {
+    "transmission": {
+      "command": "./start_transmission_server.sh",
+      "env": {},
+      "args": []
+    }
+  }
+}
